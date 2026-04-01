@@ -1,4 +1,4 @@
-# literate-octo-broccoli
+# Home_Nas_Server
 
 links of primary hardware and software
 ''' 
