@@ -1,19 +1,13 @@
 #Home_Nas_Server
 
-links of primary hardware and software
+This is the introduction of the home nas server.
+Using an old unused 16BG laptop you can make it become a fuctioning server hosting a multitide of useful virtual machines.
 
-Software:
-Proxmox VE - https://www.proxmox.com/en/products/proxmox-virtual-environment/overview
-OMV7 - https://www.openmediavault.org/
-Ubuntu Server: https://ubuntu.com/download/server
-Tailscale hompage: https://tailscale.com/
-TailScale Node info: https://tailscale.com/docs/features/exit-nodes
+Using proxmox-ve as the virtual environment and hosting virtual machines such as open media vault for the storage system 
+and ubuntu server as our dedicated VPN node. Also utilizing tailscale's capabilities to manage my VPN connection to the network.
 
+All links and steps will be in the "More_info" files.
 
-Hardware: 
-HP EliteBook 840 G10
-Standard ethernet cable
-Standard ISP home router
 
 
 
