@@ -1,4 +1,4 @@
-#Home_Nas_Server
+Home_Nas_Server
 
 This is the introduction of the home nas server.
 Using an old unused 16BG laptop you can make it become a fuctioning server hosting a multitide of useful virtual machines.
