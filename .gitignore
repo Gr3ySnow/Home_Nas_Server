@@ -1,0 +1,46 @@
+# ========================
+# Secrets & Credentials
+# ========================
+*.env
+.env.*
+secrets/
+credentials/
+*.key
+*.pem
+*.p12
+*.pfx
+id_rsa
+id_ed25519
+*.secret
+
+# ========================
+# Network & System Config
+# (avoid leaking IPs, hostnames, passwords)
+# ========================
+*shadow*
+*passwd*
+*sudoers*
+smb.conf
+fstab
+
+# ========================
+# OS & Editor Junk
+# ========================
+.DS_Store
+Thumbs.db
+desktop.ini
+*~
+*.swp
+*.swo
+.vscode/
+.idea/
+
+# ========================
+# Logs & Temp Files
+# ========================
+*.log
+*.tmp
+*.bak
+*.cache
+tmp/
+temp/
