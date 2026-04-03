@@ -10,8 +10,8 @@ This repository documents the configuration, setup process, and maintenance note
 
 | Item         | Details                          |
 |--------------|----------------------------------|
-| Hypervisor   | <!-- e.g. Proxmox  -->           |
-| Host OS      | <!-- e.g. Debian 13.Trixie -->   |
+| Hypervisor   | Proxmox Ve                       |
+| Host OS      | Debian 13.0                      |
 | Guest OS     | <!-- e.g. OpenMediaVault 7.x --> |
 | vCPUs        | <!-- e.g. 2 -->                  |
 | RAM          | <!-- e.g. 4 GB -->               |
