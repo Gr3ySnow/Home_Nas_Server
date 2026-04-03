@@ -12,25 +12,25 @@ This repository documents the configuration, setup process, and maintenance note
 |--------------|----------------------------------|
 | Hypervisor   | Proxmox Ve                       |
 | Host OS      | Debian 13.0                      |
-| Guest OS     | <!-- e.g. OpenMediaVault 7.x --> |
-| vCPUs        | <!-- e.g. 2 -->                  |
-| RAM          | <!-- e.g. 4 GB -->               |
-| Network      | <!-- e.g. Bridged adapter -->    |
-| VM Disk      | <!-- e.g. 32 GB (OS only) -->    |
+| Guest OS     | OpenMediaVault 7.x               |
+| vCPUs        | 2                                |
+| RAM          | 4 GB                             |
+| Network      | Bridged adapter                  |
+| VM Disk      | 32 GB (OS only)                  |
 
 ## Storage
 
 | Drive | Size | Purpose | Pass-through? |
 |-------|------|---------|---------------|
-| <!-- e.g. /dev/sdb --> | <!-- 64 TB --> | <!-- Media --> | <!-- Yes --> |
+|  /dev/sdb  | 64 GB  |  Media  |  Yes  |
 
 ## Services Running
 
-- [ ] Samba (Windows file sharing)
-- [ ] SSH
-- [ ] FTP/SFTP
-- [ ] Plex / Jellyfin
-- [ ] Docker / Portainer
+- [x] Samba (Windows file sharing)
+- [x] SSH
+- [x] FTP/SFTP
+- [x] Plex / Jellyfin
+- [x] Docker / Portainer
 - [ ] Other: <!-- add here -->
 
 ## Network
