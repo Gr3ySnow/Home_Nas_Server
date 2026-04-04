@@ -42,7 +42,7 @@ This repository documents the configuration, setup process, and maintenance note
 ## Initial Setup Notes
 
 1. Downloaded OMV ISO from [openmediavault.org](https://www.openmediavault.org)
-2. Created VM in <!-- hypervisor name -->
+2. Created VM in Proxmox VE
 3. Passed through storage drives via <!-- e.g. USB controller / virtual disk -->
 4. Installed OMV and ran initial configuration
 5. <!-- Add your own steps -->
