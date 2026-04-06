@@ -35,9 +35,9 @@ This repository documents the configuration, setup process, and maintenance note
 
 ## Network
 
-- **NAS IP:** <!-- e.g. 192.168.1.x (static) -->
-- **OMV Web UI port:**  <!-- 8080 : 80 -->
-- **Hostname:** <!-- e.g. nas.local -->
+- **NAS IP:**  192.168.1.73
+- **OMV Web UI port:**  8080 : 80 
+- **Hostname:** omv1.internal
 
 ## Initial Setup Notes
 
