@@ -26,12 +26,11 @@ This repository documents the configuration, setup process, and maintenance note
 
 ## Services Running
 
-- [x] Samba (Windows file sharing)
+- [x] SMB file share
 - [x] SSH
-- [x] FTP/SFTP
-- [x] Plex / Jellyfin
+- [x] Jellyfin
 - [x] Docker / Portainer
-- [ ] Other: <!-- add here -->
+
 
 ## Network
 
@@ -43,13 +42,14 @@ This repository documents the configuration, setup process, and maintenance note
 
 1. Downloaded OMV ISO from [openmediavault.org](https://www.openmediavault.org)
 2. Created VM in Proxmox VE
-3. Passed through storage drives via <!-- e.g. USB controller / virtual disk -->
+3. Passed through storage drives via USB controller / virtual disk 
 4. Installed OMV and ran initial configuration
-5. <!-- Add your own steps -->
+5. Activated SMB file share and storage files
+6. Created Jellyfin docker container and connected to network
 
 ## Maintenance
 
-- **Backups:** <!-- Describe your backup strategy -->
+- **Backups:** Creation of backup folders 
 - **Updates:** <!-- How/when you update OMV -->
 - **Monitoring:** <!-- e.g. OMV dashboard, Netdata, etc. -->
 
