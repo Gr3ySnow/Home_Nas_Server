@@ -26,7 +26,7 @@ This repository documents the configuration, setup process, and maintenance note
 
 ## Services Running
 
-- [x] SMB file share
+- [x] SMB/CIFS
 - [x] SSH
 - [x] Jellyfin
 - [x] Docker / Portainer
@@ -49,9 +49,9 @@ This repository documents the configuration, setup process, and maintenance note
 
 ## Maintenance
 
-- **Backups:** Creation of backup folders 
-- **Updates:** <!-- How/when you update OMV -->
-- **Monitoring:** <!-- e.g. OMV dashboard, Netdata, etc. -->
+- **Backups:** Creation of backup folders linked to a different storage partition
+- **Updates:** Schedule updates everyweek, creating python for automation
+- **Monitoring:** OMV Dashboard and Proxmox Data center
 
 ## Useful Commands
 
