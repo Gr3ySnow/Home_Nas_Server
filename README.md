@@ -13,8 +13,8 @@ This repository documents the configuration, setup process, and maintenance note
 | Hypervisor   | Proxmox Ve                       |
 | Host OS      | Debian 13.0                      |
 | Guest OS     | OpenMediaVault 7.x               |
-| vCPUs        | 2                                |
-| RAM          | 4 GB                             |
+| vCPUs        | 3                                |
+| RAM          | 5 GB                             |
 | Network      | Bridged adapter                  |
 | VM Disk      | 32 GB (OS only)                  |
 
