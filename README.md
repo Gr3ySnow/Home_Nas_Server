@@ -71,7 +71,7 @@ sudo omv-salt deploy run --follow
 - [OpenMediaVault Docs](https://docs.openmediavault.org)
 - [OMV Community Forum](https://forum.openmediavault.org)
 - [OMV-Extras Plugin](https://wiki.omv-extras.org)
-
+- [Jellyfin Docs](https://jellyfin.org/docs/)
 
 
 
